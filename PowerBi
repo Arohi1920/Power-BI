@@ -1,0 +1,99 @@
+1. What is Power BI?
+Answer:
+Power BI is a Business Intelligence (BI) and Data Visualization tool developed by Microsoft. It helps users analyze data, create interactive reports, and build dashboards for better business decisions.
+________________________________________
+2. What is Power BI used for?
+Answer:
+Power BI is used for:
+•	Data Analysis 
+•	Creating Interactive Dashboards 
+•	Generating Reports 
+•	Tracking Sales and Profit 
+•	Monitoring Business Performance 
+•	Visualizing Data using Charts and Graphs 
+________________________________________
+3. What are the main components of Power BI?
+Answer:
+•	Power BI Desktop 
+•	Power BI Service 
+•	Power BI Mobile App 
+•	Power BI Gateway 
+•	Power BI Report Server 
+________________________________________
+4. What is Power BI Desktop?
+Answer:
+Power BI Desktop is a free application used to connect data sources, transform data, and create reports and dashboards.
+________________________________________
+5. What is the difference between a Dashboard and a Report?
+Answer:
+Dashboard	Report
+Single page	Multiple pages
+Displays summary information	Provides detailed analysis
+Contains visuals from one or more reports	Contains multiple visualizations
+________________________________________
+6. Which data sources can Power BI connect to?
+Answer:
+Power BI can connect to:
+•	Excel 
+•	SQL Server 
+•	MySQL 
+•	Oracle Database 
+•	CSV Files 
+•	SharePoint 
+•	Web 
+•	Azure 
+•	Google Analytics 
+•	Salesforce 
+________________________________________
+7. What is a visualization in Power BI?
+Answer:
+A visualization is a graphical representation of data, such as charts, tables, maps, and graphs, used to make data easier to understand.
+________________________________________
+8. What is DAX?
+Answer:
+DAX (Data Analysis Expressions) is a formula language used in Power BI to create calculated columns, measures, and calculated tables.
+________________________________________
+
+
+How to Download and Install Power BI Desktop (Step by Step)
+Step 1: Open the Official Microsoft Website
+Go to the official Power BI Desktop download page:
+Microsoft Power BI Desktop Download
+Microsoft provides Power BI Desktop free of cost. 
+________________________________________
+Step 2: Click on Download
+•	Click the Download button. 
+•	Select PBIDesktopSetup_x64.exe (64-bit) (Recommended). 
+•	Click Next to start downloading. 
+________________________________________
+Step 3: Open the Downloaded File
+After the download is complete:
+•	Go to your Downloads folder. 
+•	Double-click PBIDesktopSetup_x64.exe. 
+________________________________________
+Step 4: Start the Installation
+The setup wizard will open.
+1.	Click Next. 
+2.	Accept the License Agreement. 
+3.	Click Next. 
+4.	Choose the installation location (or keep the default). 
+5.	Click Install. 
+________________________________________
+Step 5: Wait for Installation
+The installation usually takes 2–5 minutes, depending on your computer.
+________________________________________
+Step 6: Finish Installation
+•	Click Finish. 
+•	Open Power BI Desktop from the Start Menu or Desktop. 
+________________________________________
+Step 7: Sign In (Optional)
+You can:
+•	Click Sign In using your Microsoft account, or 
+•	Click Skip if you only want to practice locally.
+if you're explaining the process step by step:
+1.	Then, I uploaded my Excel file. 
+2.	Next, I used the data and visualization tools to create charts according to the fields I required.
+ 
+"Then, you will see the Report View like this
+
+ 
